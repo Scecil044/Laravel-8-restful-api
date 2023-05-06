@@ -6,4 +6,4 @@
 
 ## Reference
 
--   Min source of reference **[Laravel 8REST API ](https://www.youtube.com/watch?v=MT-GJQIY3EU&t=339s)** by Travesy media
+-   Main source of reference **[Laravel 8REST API ](https://www.youtube.com/watch?v=MT-GJQIY3EU&t=339s)** by Travesy media
